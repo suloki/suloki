@@ -1,0 +1,9 @@
+LIBRARY "mainservice"
+
+EXPORTS
+ ServiceInit @ 1
+ ServiceStart @ 2
+ ServiceHandle @ 3
+ ServiceStop @ 4
+ ServiceClear @ 5
+

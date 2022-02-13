@@ -1,0 +1,17 @@
+{
+"loglevel":"debug",
+"restart":"false",
+"pstorage":"true",
+"groupname":"",
+"servicename":"",
+"servicetype":"c++",
+"servicethreads":"3",
+"udpserverip":"127.0.0.1",
+"udpserverport":"0",
+"remoteudpserverip":"127.0.0.1",
+"remoteudpserverport":"0",
+"wsserverip":"127.0.0.1",
+"wsserverport":"0",
+"wsserveripremoted":"127.0.0.1",
+"wsserverportremoted":"0"
+}

@@ -1,0 +1,9 @@
+{
+"loglevel":"debug",
+"servicetype":"js",
+"servicethreads":"3",
+"wsserverip":"127.0.0.1",
+"wsserverport":"8081",
+"wsserveripremoted":"127.0.0.1",
+"wsserverportremoted":"8081"
+}
